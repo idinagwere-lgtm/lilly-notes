@@ -1,0 +1,21 @@
+# Backend
+backend/node_modules/
+backend/.env
+backend/dist/
+backend/*.log
+
+# Android
+android/.gradle/
+android/.idea/
+android/local.properties
+android/build/
+android/*.apk
+android/*.aab
+
+# General
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+.vim/
